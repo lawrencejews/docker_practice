@@ -1,0 +1,5 @@
+node_modules
+Dockerfile
+.git
+.DS_Store
+.vs_code
